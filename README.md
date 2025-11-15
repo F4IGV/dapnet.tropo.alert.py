@@ -19,3 +19,4 @@ Documentation pour le dapnet: https://hampager.de/dokuwiki/doku.php
 Vous souhaitez vous équiper d'un Pager? voici la meilleur adresse: https://www.bi7jta.org/
 
 Version finale et stable du script by F4IGV 11/2025
+<img width="1181" height="618" alt="screen_log_tropo_alert" src="https://github.com/user-attachments/assets/4679f5d0-4eb4-4f50-a620-8656a6630b61" />
